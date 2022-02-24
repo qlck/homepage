@@ -1,0 +1,22 @@
+title: Homepage
+author: pro-panda
+subtitle:
+
+url: "https://qlck.github.io"
+baseurl: "/homepage"
+
+footer_only_homepage: true
+footer_url: "https://github.com/rahul-bothra/parchment"
+footer_text: "Theme based on Parchment"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+permalink: /:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "About"
+   link: "about"
