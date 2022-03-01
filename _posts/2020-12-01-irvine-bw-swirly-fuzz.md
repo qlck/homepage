@@ -5,6 +5,8 @@ subtitle: A bit fuzzy, but I still love these shots
 tags: [photography]
 ---
 
+Some of my B&W film that is either pretty fuzzy/grainy or from a batch where I messed up the film loading/development and it created a these kinda other-worldly swirls that I actually love.
+
 ![](../assets/images/misc-bw-irvine/swirly-fuzz/irvinebw1.jpg)
 ![](../assets/images/misc-bw-irvine/swirly-fuzz/irvinebw2.jpg)
 <section class="portrait-img-group">

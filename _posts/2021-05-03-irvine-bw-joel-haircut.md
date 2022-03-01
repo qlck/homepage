@@ -5,6 +5,8 @@ subtitle: Unedited but fun and retro vibes
 tags: [photography]
 ---
 
+Not edited but I just think these are so fun.
+
 ![](../assets/images/misc-bw-irvine/joel-haircut/irvinebw2.jpg)
 <section class="portrait-img-group">
 <img src="../assets/images/misc-bw-irvine/joel-haircut/irvinebw3.jpg"/>

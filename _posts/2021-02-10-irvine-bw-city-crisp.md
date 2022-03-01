@@ -5,6 +5,8 @@ subtitle: A few from LA & a couple more Irvine shots
 tags: [photography]
 ---
 
+Little LA snippets + a couple more from the exurb that just feel like they belong here.
+
 <section class="portrait-img-group">
   <img src="../assets/images/misc-bw-irvine/crisp-city-shiz/irvinebw1.jpg"/>
   <img src="../assets/images/misc-bw-irvine/crisp-city-shiz/irvinebw2.jpg"/>

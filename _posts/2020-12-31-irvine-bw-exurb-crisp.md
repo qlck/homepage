@@ -5,6 +5,8 @@ subtitle: Some faves from the many rolls of B&W film I shot on my daily walks an
 tags: [photography]
 ---
 
+Lots of my B&W faves that turned out fairly sharp!
+
 <section class="portrait-img-group">
   <img src="../assets/images/misc-bw-irvine/crisp-exurb-shiz/irvinebw3.jpg"/>
   <img src="../assets/images/misc-bw-irvine/crisp-exurb-shiz/irvinebw4.jpg"/>

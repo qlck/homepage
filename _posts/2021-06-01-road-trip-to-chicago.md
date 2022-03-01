@@ -5,7 +5,7 @@ subtitle: Driving through the Southwest/ West / Midwest, with a couple of film c
 tags: [travel, photography]
 ---
 
-J's and my big road trip from Irvine to Chicago in May of 2021. Mostly shot on my Canon P (which unfortunately had occasional light leaks, although I kinda like how some of them turned out in the images) and a few on my Canonet QL-19 G-III. A mix of Ektar, Portra, and Pro-Image film stocks.
+J's and my big road trip from Irvine to Chicago in May of 2021. Mostly shot on my Canon P (which unfortunately had occasional light leaks, although I kinda like how some of them turned out in the images) and a few on my Canonet QL-17 G-III. A mix of Ektar, Portra, and Pro-Image film stocks.
 
 ## Driving through the Southwest
 
