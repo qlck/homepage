@@ -5,7 +5,7 @@
 
 $accent: #FF0F00;
 
-$max-width: 60vw;
+$max-width: 64vw;
 $med-width: 600px;
 $small-width: 480px;
 
@@ -178,6 +178,7 @@ code {
 //  typography
 
 .content {
+    width: 64vw;
     line-height: 1.5;
     h1, h2, h3, h4 {
         margin-block-start: 2em !important;
@@ -238,12 +239,13 @@ code {
     }
     img {
         text-align: center;
-        margin: 10px 10px 10px 10px;
+        margin: 10px 10px;
         max-width: 60vw;
         max-height: 90vh;
     }
     .portrait-img-group {
       display: flex;
+      flex-wrap: wrap;
     }
 
     .color-red {
